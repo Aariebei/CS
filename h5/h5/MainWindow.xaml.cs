@@ -263,7 +263,7 @@ namespace h5
 
             double o13 = Increment(3);
 
-            MessageBox.Show($"Opdracht 13 - Opgehoogd: {o13.}");
+            MessageBox.Show($"Opdracht 13 - Opgehoogd: {o13}");
 
             string o14 = ConvertNumberToBinary(12);
 
