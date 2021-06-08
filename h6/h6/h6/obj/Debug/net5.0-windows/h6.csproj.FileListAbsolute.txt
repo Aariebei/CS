@@ -22,3 +22,9 @@ C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows
 C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows\ref\h6.dll
 C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows\h6.pdb
 C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows\h6.genruntimeconfig.cache
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows\Window3.g.cs
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows\Window4.g.cs
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows\Window3.baml
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows\Window4.baml
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows\Window5.g.cs
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows\Window5.baml

@@ -8,6 +8,8 @@
         Title="Window2" Height="450" Width="800">
     <Grid>
         <Label Content="6.2" HorizontalAlignment="Center" Margin="0,29,0,0" VerticalAlignment="Top" Height="93" Width="98" FontSize="72"/>
-
+        <Button Name="btnNext" Content="Volgende" HorizontalAlignment="Center" Margin="0,324,0,0" VerticalAlignment="Top" Height="44" Width="120" FontSize="18"/>
+        <Label Name="lblCount" Content="1" HorizontalAlignment="Center" Margin="0,160,0,0" VerticalAlignment="Top" FontSize="18" Height="33" Width="30"/>
+        <Button Name="btnIncrement" Content="Ophogen" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Top" Height="25" Width="68"/>
     </Grid>
 </Window>

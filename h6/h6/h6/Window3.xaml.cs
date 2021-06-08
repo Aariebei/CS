@@ -15,28 +15,31 @@ using System.Windows.Shapes;
 namespace h6
 {
     /// <summary>
-    /// Interaction logic for Window2.xaml
+    /// Interaction logic for Window3.xaml
     /// </summary>
-    public partial class Window2 : Window
+    public partial class Window3 : Window
     {
-        private int count = 1;
-        public Window2()
+        private List<int> list = new List<int>();
+        private Random Rnd = new Random();
+        public Window3()
         {
             InitializeComponent();
             btnNext.Click += BtnNext_Click;
-            lblCount.Content = count.ToString();
-            btnIncrement.Click += BtnIncrement_Click;
+            btnGenerate.Click += BtnGenerate_Click;
         }
 
-        private void BtnIncrement_Click(object sender, RoutedEventArgs e)
+        private void BtnGenerate_Click(object sender, RoutedEventArgs e)
         {
-            count = count + 1;
-            lblCount.Content = count.ToString();
+            int rndNum = Rnd.Next(200, 400);
+            list.Add(rndNum);
+            lblRandom.Content = rndNum.ToString();
+            lblAverage.Content = list.Average().ToString("0.0");
+            lblSum.Content = list.Sum().ToString();
         }
 
         private void BtnNext_Click(object sender, RoutedEventArgs e)
         {
-            Window3 Window = new Window3();
+            Window4 Window = new Window4();
             Window.Show();
             this.Close();
         }
