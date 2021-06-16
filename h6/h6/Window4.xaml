@@ -1,0 +1,25 @@
+﻿<Window x:Class="h6.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:h6"
+        mc:Ignorable="d"
+        Title="Window4" Height="481" Width="857">
+    <Grid>
+        <Label Content="6.4" HorizontalAlignment="Center" VerticalAlignment="Top" Height="93" Width="98" FontSize="72"/>
+        <Button x:Name="btnNext" Content="Volgende" HorizontalAlignment="Center" Margin="0,382,0,0" VerticalAlignment="Top" Height="44" Width="120" FontSize="18"/>
+        <Label Content="Graden in Celcius:" HorizontalAlignment="Left" Margin="324,120,0,0" VerticalAlignment="Top"/>
+        <Button Name="btnConvert" Content="Converteren" HorizontalAlignment="Left" Margin="342,337,0,0" VerticalAlignment="Top"/>
+        <Label Content="Graden in Fahrenheit:" HorizontalAlignment="Left" Margin="324,146,0,0" VerticalAlignment="Top"/>
+        <Label Name="lblFahrenheit" Content="" HorizontalAlignment="Left" Margin="448,146,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txbCelcius" HorizontalAlignment="Left" Margin="434,123,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnCalculate" Content="Berekenen" HorizontalAlignment="Left" Margin="452,337,0,0" VerticalAlignment="Top"/>
+        <Slider Name="sldCelcius" HorizontalAlignment="Center" Margin="0,203,0,0" VerticalAlignment="Top" Width="120" Maximum="100"/>
+        <Label Content="Graden in Celcius:" HorizontalAlignment="Left" Margin="358,173,0,0" VerticalAlignment="Top"/>
+        <Canvas Name="cvsGraph" Background="#FFB2B2B2" Margin="625,66,59,213"/>
+        <Label Content="0" HorizontalAlignment="Left" Margin="342,199,0,0" VerticalAlignment="Top"/>
+        <Label Content="100" HorizontalAlignment="Left" Margin="494,199,0,0" VerticalAlignment="Top"/>
+        <Label Name="lblCelcius2" Content="0" HorizontalAlignment="Left" Margin="465,173,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
