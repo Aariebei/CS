@@ -15,19 +15,13 @@ using System.Windows.Shapes;
 namespace h6
 {
     /// <summary>
-    /// Interaction logic for Window5.xaml
+    /// Interaction logic for Window6.xaml
     /// </summary>
-    public partial class Window5 : Window
+    public partial class Window6 : Window
     {
-        public Window5()
+        public Window6()
         {
             InitializeComponent();
-            btnNext.Click += BtnNext_Click;
-        }
-
-        private void BtnNext_Click(object sender, RoutedEventArgs e)
-        {
-            Window6 Window = new Window6();
         }
     }
 }
