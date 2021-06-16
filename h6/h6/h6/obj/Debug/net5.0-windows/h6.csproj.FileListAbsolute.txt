@@ -28,3 +28,5 @@ C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows
 C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows\Window4.baml
 C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows\Window5.g.cs
 C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows\Window5.baml
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows\Window6.g.cs
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\h6\obj\Debug\net5.0-windows\Window6.baml
