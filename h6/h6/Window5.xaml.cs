@@ -22,12 +22,6 @@ namespace h6
         public Window5()
         {
             InitializeComponent();
-            btnNext.Click += BtnNext_Click;
-        }
-
-        private void BtnNext_Click(object sender, RoutedEventArgs e)
-        {
-            Window6 Window = new Window6();
         }
     }
 }
