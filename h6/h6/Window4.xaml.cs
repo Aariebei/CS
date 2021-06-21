@@ -26,6 +26,14 @@ namespace h6
             btnConvert.Click += BtnConvert_Click;
             btnCalculate.Click += BtnCalculate_Click;
             sldCelcius.ValueChanged += SldCelcius_ValueChanged;
+            btnNext.Click += BtnNext_Click;
+        }
+
+        private void BtnNext_Click(object sender, RoutedEventArgs e)
+        {
+            Window5 Window = new Window5();
+            Window.Show();
+            this.Close();
         }
 
         private void SldCelcius_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)

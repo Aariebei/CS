@@ -5,9 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:h6"
         mc:Ignorable="d"
-        Title="Window5" Height="450" Width="800">
+        Title="Window5" Height="475" Width="818">
     <Grid>
         <Label Content="6.5" HorizontalAlignment="Center" VerticalAlignment="Top" Height="93" Width="98" FontSize="72" Margin="0,10,0,0"/>
-
+        <Slider Name="sldDeep" HorizontalAlignment="Center" Margin="0,108,0,0" VerticalAlignment="Top" Width="120" Minimum="1" Maximum="100"/>
+        <Slider Name="sldShallow" HorizontalAlignment="Center" Margin="0,131,0,0" VerticalAlignment="Top" Width="120" Minimum="1" Maximum="100"/>
+        <Button Name="btnCalculate" Content="Bereken" HorizontalAlignment="Center" Margin="0,154,0,0" VerticalAlignment="Top"/>
+        <Canvas Margin="336,218,336,101" Background="#FFDCCBCB"/>
+        <Button x:Name="btnNext" Content="Volgende" HorizontalAlignment="Center" Margin="0,385,0,0" VerticalAlignment="Top" Height="44" Width="120" FontSize="18"/>
+        <Label Content="Inhoud:" HorizontalAlignment="Left" Margin="359,187,0,0" VerticalAlignment="Top"/>
+        <Label Name="lblVolume" Content="" HorizontalAlignment="Left" Margin="409,187,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>

@@ -22,6 +22,21 @@ namespace h6
         public Window5()
         {
             InitializeComponent();
+            btnNext.Click += BtnNext_Click;
+            btnCalculate.Click += BtnCalculate_Click;
+        }
+
+        private void BtnCalculate_Click(object sender, RoutedEventArgs e)
+        {
+            int deepLength = Convert.ToInt32(sldDeep.Value);
+            int shallowLength = Convert.ToInt32(sldShallow.Value);
+            double volume = (deepLength + shallowLength) / 2 * deepLength * shallowLength;
+            lblVolume.Content = volume.ToString("0.0");
+        }
+
+        private void BtnNext_Click(object sender, RoutedEventArgs e)
+        {
+            throw new NotImplementedException();
         }
     }
 }
