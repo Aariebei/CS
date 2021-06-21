@@ -11,7 +11,7 @@
         <Slider Name="sldDeep" HorizontalAlignment="Center" Margin="0,108,0,0" VerticalAlignment="Top" Width="120" Minimum="1" Maximum="100"/>
         <Slider Name="sldShallow" HorizontalAlignment="Center" Margin="0,131,0,0" VerticalAlignment="Top" Width="120" Minimum="1" Maximum="100"/>
         <Button Name="btnCalculate" Content="Bereken" HorizontalAlignment="Center" Margin="0,154,0,0" VerticalAlignment="Top"/>
-        <Canvas Margin="336,218,336,101" Background="#FFDCCBCB"/>
+        <Canvas Name="cvs5" Margin="336,218,336,101" Background="#FFDCCBCB"/>
         <Button x:Name="btnNext" Content="Volgende" HorizontalAlignment="Center" Margin="0,385,0,0" VerticalAlignment="Top" Height="44" Width="120" FontSize="18"/>
         <Label Content="Inhoud:" HorizontalAlignment="Left" Margin="359,187,0,0" VerticalAlignment="Top"/>
         <Label Name="lblVolume" Content="" HorizontalAlignment="Left" Margin="409,187,0,0" VerticalAlignment="Top"/>
