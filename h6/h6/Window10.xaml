@@ -1,0 +1,13 @@
+﻿<Window x:Class="h6.Window10"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:h6"
+        mc:Ignorable="d"
+        Title="Window10" Height="450" Width="800">
+    <Grid>
+        <ProgressBar x:Name="pgb" HorizontalAlignment="Center" Height="61" VerticalAlignment="Center" Width="612" Maximum="5"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,28 @@
+C:\xampp\htdocs\lessen\Programmeren in C#\h10\BalloonWithProperties\bin\Debug\BalloonWithProperties.exe.config
+C:\xampp\htdocs\lessen\Programmeren in C#\h10\BalloonWithProperties\bin\Debug\BalloonWithProperties.exe
+C:\xampp\htdocs\lessen\Programmeren in C#\h10\BalloonWithProperties\bin\Debug\BalloonWithProperties.pdb
+C:\xampp\htdocs\lessen\Programmeren in C#\h10\BalloonWithProperties\obj\Debug\BalloonWithProperties.csprojAssemblyReference.cache
+C:\xampp\htdocs\lessen\Programmeren in C#\h10\BalloonWithProperties\obj\Debug\MainWindow.baml
+C:\xampp\htdocs\lessen\Programmeren in C#\h10\BalloonWithProperties\obj\Debug\MainWindow.g.cs
+C:\xampp\htdocs\lessen\Programmeren in C#\h10\BalloonWithProperties\obj\Debug\App.g.cs
+C:\xampp\htdocs\lessen\Programmeren in C#\h10\BalloonWithProperties\obj\Debug\BalloonWithProperties_MarkupCompile.cache
+C:\xampp\htdocs\lessen\Programmeren in C#\h10\BalloonWithProperties\obj\Debug\BalloonWithProperties.g.resources
+C:\xampp\htdocs\lessen\Programmeren in C#\h10\BalloonWithProperties\obj\Debug\BalloonWithProperties.Properties.Resources.resources
+C:\xampp\htdocs\lessen\Programmeren in C#\h10\BalloonWithProperties\obj\Debug\BalloonWithProperties.csproj.GenerateResource.cache
+C:\xampp\htdocs\lessen\Programmeren in C#\h10\BalloonWithProperties\obj\Debug\BalloonWithProperties.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\lessen\Programmeren in C#\h10\BalloonWithProperties\obj\Debug\BalloonWithProperties.exe
+C:\xampp\htdocs\lessen\Programmeren in C#\h10\BalloonWithProperties\obj\Debug\BalloonWithProperties.pdb
+C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\H10\Balloon\bin\Debug\BalloonWithProperties.exe.config
+C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\H10\Balloon\bin\Debug\BalloonWithProperties.exe
+C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\H10\Balloon\bin\Debug\BalloonWithProperties.pdb
+C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\H10\Balloon\obj\Debug\BalloonWithProperties.csprojAssemblyReference.cache
+C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\H10\Balloon\obj\Debug\MainWindow.baml
+C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\H10\Balloon\obj\Debug\MainWindow.g.cs
+C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\H10\Balloon\obj\Debug\App.g.cs
+C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\H10\Balloon\obj\Debug\BalloonWithProperties_MarkupCompile.cache
+C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\H10\Balloon\obj\Debug\BalloonWithProperties.g.resources
+C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\H10\Balloon\obj\Debug\BalloonWithProperties.Properties.Resources.resources
+C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\H10\Balloon\obj\Debug\BalloonWithProperties.csproj.GenerateResource.cache
+C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\H10\Balloon\obj\Debug\BalloonWithProperties.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\H10\Balloon\obj\Debug\BalloonWithProperties.exe
+C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\H10\Balloon\obj\Debug\BalloonWithProperties.pdb

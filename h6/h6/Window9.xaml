@@ -1,0 +1,18 @@
+﻿<Window x:Class="h6.Window9"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:h6"
+        mc:Ignorable="d"
+        Title="Window9" Height="450" Width="800">
+    <Grid>
+        <PasswordBox ToolTip="Voer hier uw wachtwoord in" HorizontalAlignment="Left" Margin="349,198,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox ToolTip="Voer hier uw naam in" HorizontalAlignment="Left" Margin="349,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Naam:" HorizontalAlignment="Left" Margin="306,133,0,0" VerticalAlignment="Top"/>
+        <Label Content="Paswoord:" HorizontalAlignment="Left" Margin="280,194,0,0" VerticalAlignment="Top"/>
+        <Button Content="cancel" HorizontalAlignment="Left" Margin="293,253,0,0" VerticalAlignment="Top"/>
+        <Button Content="OK" HorizontalAlignment="Left" Margin="437,251,0,0" VerticalAlignment="Top" Height="22" Width="32"/>
+
+    </Grid>
+</Window>

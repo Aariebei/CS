@@ -30,7 +30,7 @@ namespace h6
 
         private void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
-            Window5 Window = new Window5();
+            Window10 Window = new Window10();
             Window.Show();
             this.Close();
         }
@@ -43,8 +43,7 @@ namespace h6
 
         private void BtnNext_Click(object sender, RoutedEventArgs e)
         {
-            /*Window2 Window = new Window2();*/
-            Window5 Window = new Window5();
+            Window2 Window = new Window2();
             Window.Show();
             this.Close();
         }

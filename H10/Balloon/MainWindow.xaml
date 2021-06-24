@@ -1,0 +1,19 @@
+﻿<Window x:Class="BalloonWithProperties.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Balloon with properties" Height="350" Width="389.612">
+    <Grid>
+        <Button Name="btnMoveRight" Content="Move" HorizontalAlignment="Left" Margin="30,99,0,0" VerticalAlignment="Top" Width="75" />
+        <Button Name="btnGrow" Content="Grow" HorizontalAlignment="Left" Margin="30,140,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Name="btnDisplayX" Content="Display x" HorizontalAlignment="Left" Margin="30,25,0,0" VerticalAlignment="Top" Width="75" />
+        <TextBox Name="txbXCoord" HorizontalAlignment="Left" Height="23" Margin="124,25,0,0" VerticalAlignment="Top" Width="60"/>
+        <Button Name="btnChangeX" Content="Change x" HorizontalAlignment="Left" Margin="282,25,0,0" VerticalAlignment="Top" Width="75" />
+
+        <Canvas Name="drawingCanvas" HorizontalAlignment="Left" Height="173" Margin="124,99,0,0" VerticalAlignment="Top" Width="233" Background="LightGray" />
+        
+        <Button Name="btnDisplayDiameter" Content="Display dm" HorizontalAlignment="Left" Margin="30,61,0,0" VerticalAlignment="Top" Width="75" />
+        <TextBox Name="txbDiameter" HorizontalAlignment="Left" Height="23" Margin="124,61,0,0" VerticalAlignment="Top" Width="60"/>
+        
+        <Button Name="btnSaveBalloon" Content="Save" HorizontalAlignment="Left" Margin="30,251,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>
