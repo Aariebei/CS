@@ -18,11 +18,29 @@ namespace BalloonWithProperties
             balloon.DisplayOn(drawingCanvas);
 
             btnMoveRight.Click += btnMoveRight_Click;
+            btnMoveDown.Click += BtnMoveDown_Click;
+            btnMoveLeft.Click += BtnMoveLeft_Click;
+            btnMoveUp.Click += BtnMoveUp_Click;
             btnGrow.Click += btnGrow_Click;
             btnDisplayX.Click += btnDisplayX_Click;
             btnChangeX.Click += btnChangeX_Click;
             btnDisplayDiameter.Click += btnDisplayDiameter_Click;
             btnSaveBalloon.Click += btnSaveBalloon_Click;
+        }
+
+        private void BtnMoveUp_Click(object sender, RoutedEventArgs e)
+        {
+            balloon.moveUp(20);
+        }
+
+        private void BtnMoveDown_Click(object sender, RoutedEventArgs e)
+        {
+            balloon.moveDown(20);
+        }
+
+        private void BtnMoveLeft_Click(object sender, RoutedEventArgs e)
+        {
+            balloon.MoveLeft(20);
         }
 
         private void btnMoveRight_Click(object sender, RoutedEventArgs e)

@@ -10,6 +10,8 @@ namespace BalloonWithProperties
         private int _x = 50;
         private int _y = 50;
         private int _diameter = 20;
+        private string _name = "";
+        private Brush _colour = new SolidColorBrush(Colors.Black);
         private Ellipse _ellipse;
 
         public int x
@@ -27,6 +29,18 @@ namespace BalloonWithProperties
         public int diameter
         {
             get { return _diameter; }
+        }
+
+        public string name
+        {
+            get { return _name;  }
+            set { _name = value;  }
+        }
+
+        public Brush colour
+        {
+            get { return _colour; }
+            set { _colour = value; }
         }
 
         public Balloon()
@@ -54,9 +68,24 @@ namespace BalloonWithProperties
             _x = _x + xStep;
             UpdateEllipse();
         }
+        public void moveDown(int yStep)
+        {
+            _y = _y + yStep;
+            UpdateEllipse();
+        }
+        public void MoveLeft(int xStep)
+        {
+            _x = _x - xStep;
+            UpdateEllipse();
+        }
         public void ChangeSize(int change)
         {
             _diameter = _diameter + change;
+            UpdateEllipse();
+        }
+        public void moveUp(int yStep)
+        {
+            _y = _y - yStep;
             UpdateEllipse();
         }
         public void DisplayOn(Canvas drawingCanvas)
@@ -67,7 +96,7 @@ namespace BalloonWithProperties
         {
             _ellipse = new Ellipse()
             {
-                Stroke = new SolidColorBrush(Colors.Blue),
+                Stroke = _colour,
                 StrokeThickness = 2
             };
         }
