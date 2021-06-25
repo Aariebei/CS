@@ -25,14 +25,6 @@ namespace h6
             InitializeComponent();
             btnNext.Click += BtnNext_Click;
             btnStart.Click += BtnStart_Click;
-            this.Loaded += MainWindow_Loaded;
-        }
-
-        private void MainWindow_Loaded(object sender, RoutedEventArgs e)
-        {
-            Window10 Window = new Window10();
-            Window.Show();
-            this.Close();
         }
 
         private void BtnStart_Click(object sender, RoutedEventArgs e)

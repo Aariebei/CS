@@ -55,7 +55,9 @@ namespace h6
 
         private void BtnNext_Click(object sender, RoutedEventArgs e)
         {
-            throw new NotImplementedException();
+            Window6 Window = new Window6();
+            Window.Show();
+            this.Close();
         }
     }
 }
