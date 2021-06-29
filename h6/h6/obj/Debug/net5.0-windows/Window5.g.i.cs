@@ -101,7 +101,7 @@ namespace h6 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/h6;V1.0.0.0;component/window5.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/h6;component/window5.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Window5.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

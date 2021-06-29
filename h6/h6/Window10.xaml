@@ -8,6 +8,7 @@
         Title="Window10" Height="450" Width="800">
     <Grid>
         <ProgressBar x:Name="pgb" HorizontalAlignment="Center" Height="61" VerticalAlignment="Center" Width="612" Maximum="5"/>
+        <Label Content="6.10" HorizontalAlignment="Center" VerticalAlignment="Top" Height="93" Width="164" FontSize="72" Margin="0,10,0,0"/>
 
     </Grid>
 </Window>

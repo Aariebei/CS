@@ -7,12 +7,15 @@
         mc:Ignorable="d"
         Title="Window9" Height="450" Width="800">
     <Grid>
+        <Label Content="6.9" HorizontalAlignment="Left" VerticalAlignment="Top" Height="93" Width="108" FontSize="72" Margin="355,10,0,0"/>
         <PasswordBox ToolTip="Voer hier uw wachtwoord in" HorizontalAlignment="Left" Margin="349,198,0,0" VerticalAlignment="Top" Width="120"/>
         <TextBox ToolTip="Voer hier uw naam in" HorizontalAlignment="Left" Margin="349,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Label Content="Naam:" HorizontalAlignment="Left" Margin="306,133,0,0" VerticalAlignment="Top"/>
         <Label Content="Paswoord:" HorizontalAlignment="Left" Margin="280,194,0,0" VerticalAlignment="Top"/>
         <Button Content="cancel" HorizontalAlignment="Left" Margin="293,253,0,0" VerticalAlignment="Top"/>
         <Button Content="OK" HorizontalAlignment="Left" Margin="437,251,0,0" VerticalAlignment="Top" Height="22" Width="32"/>
+        <Button x:Name="btnNext" HorizontalAlignment="Center" Margin="0,374,0,0" VerticalAlignment="Top" Height="37" Width="100" FontSize="18" Cursor="" Content="Volgende">
+        </Button>
 
     </Grid>
 </Window>

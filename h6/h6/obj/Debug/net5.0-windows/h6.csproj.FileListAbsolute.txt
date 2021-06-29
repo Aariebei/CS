@@ -92,3 +92,13 @@ C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\h6\h6\obj\Debug\net5.0-w
 C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\h6\h6\obj\Debug\net5.0-windows\Window9.baml
 C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\h6\h6\obj\Debug\net5.0-windows\Window10.g.cs
 C:\Users\Jeremy School\Documents\School\2021-2022\P4\CS\h6\h6\obj\Debug\net5.0-windows\Window10.baml
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\obj\Debug\net5.0-windows\Window10.g.cs
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\obj\Debug\net5.0-windows\Window6.g.cs
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\obj\Debug\net5.0-windows\Window7.g.cs
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\obj\Debug\net5.0-windows\Window8.g.cs
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\obj\Debug\net5.0-windows\Window9.g.cs
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\obj\Debug\net5.0-windows\Window10.baml
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\obj\Debug\net5.0-windows\Window6.baml
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\obj\Debug\net5.0-windows\Window7.baml
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\obj\Debug\net5.0-windows\Window8.baml
+C:\Users\Game-PC\Documents\School\LJ2\P4\L8\CS\h6\h6\obj\Debug\net5.0-windows\Window9.baml

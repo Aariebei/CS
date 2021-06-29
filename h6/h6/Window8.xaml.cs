@@ -22,6 +22,14 @@ namespace h6
         public Window8()
         {
             InitializeComponent();
+            btnNext.Click += BtnNext_Click;
+        }
+
+        private void BtnNext_Click(object sender, RoutedEventArgs e)
+        {
+            Window9 win = new Window9();
+            win.Show();
+            this.Close();
         }
     }
 }
